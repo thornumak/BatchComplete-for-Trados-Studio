@@ -5,7 +5,7 @@ A simple plugin to batch-complete your in-progress projects.
 <br>
 
 <video autoplay loop muted playsinline width="600">
-  <source src="[batchcomplete.mp4]" type="video/part">
+  <source src="https://raw.githubusercontent.com/thornumak/BatchComplete-for-Trados-Studio/refs/heads/main/batchcomplete.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
