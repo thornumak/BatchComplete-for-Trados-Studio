@@ -4,7 +4,7 @@ A simple plugin to batch-complete your in-progress projects.
 
 <br>
 
-![Demo](demo.gif)
+![Demo](demo2.gif)
 
 <br>
 
